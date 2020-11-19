@@ -1,11 +1,9 @@
 ### 👋 Hi there, I'm H. Kamran! 👋
 
-![Hacktoberfest 2020 - Time Remaining](https://img.shields.io/github/hacktoberfest/2020/hkamran80/schedules?style=for-the-badge)
-
 Here's what I'm currently working on:
-  * [Schedules](https://github.com/hkamran80/schedules) ([available here](https://schedules.unisontech.org), [beta](https://beta-schedules.unisontech.org)), which is just underwent a complete redesign (hacktoberfest)
+  * [Schedules](https://github.com/hkamran80/schedules) ([available here](https://schedules.unisontech.org), [beta](https://beta-schedules.unisontech.org)), which is just underwent a complete redesign
   * The redesign of my blog, [Reprint](https://beta-reprint.hkamran.com) ([legacy version](https://reprint.hkamran.com))
-  * A diary application called [Lockbook](https://github.com/hkamran80/lockbook) (which I need some help with, specifically encryption and decryption of user information and data) (hacktoberfest)
+  * A diary application called [Lockbook](https://github.com/hkamran80/lockbook) (which I need some help with, specifically encryption and decryption of user information and data
 
 If you want to check out the userscripts I've written, head on over to my [userscripts site](https://userscripts.hkamran.com)!
 
