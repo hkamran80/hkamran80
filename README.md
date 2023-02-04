@@ -34,8 +34,8 @@ be gleaned by scanning through [my repositories](https://github.com/hkamran80?ta
   For each school, Schedules sends handy notifications at predefined intervals and
   features a full bell schedule for each day of the week.
   
-  If your school is not yet available, visit [https://go.unisontech.org/schreq](https://go.unisontech.org/schreq)
-  to request its addition or add the schedule yourself by forking the
+  If your school is not yet available, [request its addition](https://go.unisontech.org/schreq)
+  or add the schedule yourself by forking the
   [configuration repository](https://github.com/hkamran80/schedules-configuration)
   and making a pull request.
 
