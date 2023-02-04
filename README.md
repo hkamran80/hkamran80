@@ -1,15 +1,54 @@
-### 👋 Hi there, I'm H. Kamran! 👋
+# Hello world!
 
-Here's what I'm currently working on:
-  - My website, [hkamran.com](https://github.com/hkamran80/website) ([available here](https://hkamran.com)), which has my blog, a list of my creations, and some little programs made for the web
-  - [Schedules](https://github.com/hkamran80/schedules) ([available here](https://schedules.unisontech.org), [beta](https://beta-schedules.unisontech.org)), which just underwent a complete redesign, and gives you the time left in a period and when that period ends. Currently only available for AUHSD Standard and Distance Learning schedules
-  - An EPUB reader for macOS, called [Xenon Reader](https://github.com/hkamran80/xenon-reader).
-  - A controller for Spotify, [Control Surface for Spotify](https://spotify-controlsurface.unisontech.org)
-  - A simple diary application, powered by Firebase, called [Diario](https://diario.unisontech.org/)
-  - A help center library for iOS (with [aheze](https://github.com/aheze)) called [SupportDocs](https://github.com/aheze/SupportDocs)
+My name is [H. Kamran](https://hkamran.com/), and I'm a developer who likes to
+[take photos](https://unsplash.com/@hkamran)! My pronouns are he/him.
 
-If you want to check out the userscripts I've written, head on over to my [userscripts site](https://userscripts.hkamran.com)!
+I'm available on [Twitter](https://twitter.com/hkamran80) and [Mastodon](https://vmst.io/@hkamran)
+if you ever want to chat!
 
-For more information, check out my website at [hkamran.com](https://hkamran.com)!
+## Articles
 
-My favorite programming languages are Python, Swift, and JavaScript. If you want to check out the few articles I've written, view them on [my blog](https://hkamran.com/blog) or [Medium](https://hkamran.medium.com). If you need to contact me, email me using the email listed on my profile or send me a message on Twitter (link on profile).
+I like to read articles on topics that interest me or topics that I want to share
+with the rest of the world. I've currently written [six articles](https://hkamran.com/articles)
+and [one note](https://hkamran.com/notes).
+
+- [Getting balenaEtcher to Work on macOS Catalina](https://hkamran.com/article/getting-balenaetcher-to-work-on-macos-catalina)
+- [Expanding PKGs on macOS](https://hkamran.com/article/expanding-pkgs-on-macos)
+- [Dark Mode Toggle for Vue.js Apps with Vuetify](https://hkamran.com/article/vuetify-dark-mode-toggle)
+- [Changing Google Docs' Default Styles](https://hkamran.com/article/changing-google-docs-default-styles)
+- [Generate TypeScript Declaration Files for JavaScript Files](https://hkamran.com/article/generate-typescript-declarations-js-files)
+- [Adding Wildcard Subdomain Support to macOS](https://hkamran.com/article/adding-wildcard-subdomain-support-macos)
+
+## Projects
+
+I work on too many projects to put into a full list, but a pretty accurate one can
+be gleaned by scanning through [my repositories](https://github.com/hkamran80?tab=repositories).
+
+### Featured Projects
+
+- **[Schedules](https://schedules.unisontech.org)**: All your bell schedules in
+  one app
+
+  Schedules gives you handy information about your bell schedules, such as the current
+  period, the countdown to the next period, and the starting time of the next period.
+  For each school, Schedules sends handy notifications at predefined intervals and
+  features a full bell schedule for each day of the week.
+  
+  If your school is not yet available, visit [https://go.unisontech.org/schreq](https://go.unisontech.org/schreq)
+  to request its addition or add the schedule yourself by forking the
+  [configuration repository](https://github.com/hkamran80/schedules-configuration)
+  and making a pull request.
+
+  Schedules is entirely open-source, with [the website](https://github.com/hkamran80/schedules),
+  [mobile apps](https://github.com/hkamran80/schedules-flutter/), and [configuration](https://github.com/hkamran80/schedules-configuration)
+  available in separate repositories here on GitHub.
+
+  You can use it via [the website](https://schedules.unisontech.org), or download
+  it from the [Apple App Store](https://apps.apple.com/app/apple-store/id6444194250?pt=125715921&ct=Schedules%20(Web)&mt=8)
+  or [Google Play Store](https://play.google.com/store/apps/details?id=com.hkamran.schedules).
+
+- **[Nebula New Tab](https://hkamran.com/showcase/nebula-new-tab)**: A clean and
+  simple new tab page
+
+  An [open-source](https://github.com/hkamran80/nebula-new-tab) new tab extension
+  with the time and date and stunning background images (powered by Unsplash).
